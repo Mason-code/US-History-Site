@@ -1,38 +1,25 @@
 ---
-title: 1. Theme Installation
-date: 2021-12-19
+title: 1. 3 Places Essay
+date: 2021-12-20
 images: 
 - https://raw.githubusercontent.com/apvarun/digital-garden-hugo-theme/main/images/digital-garden-logo.png
 ---
 
-Create a new hugo website or open your existing hugo site.
+Over the summer, my family decided to travel to Italy and visit several different cities. The trip lasted two weeks and was full of surprises. This essay will detail my experiences in Rome, Naples, and Sorrento.
+We began our journey at John Wayne Airport around midday, though our plane was delayed a few hours due to a chipped part. At the time, I didn’t think much of it, but we had one stop in Atlanta, Georgia, before we could continue to Italy. The flight to Atlanta wasn’t too bad,just 4-5 hours,and I had a window seat, so I enjoyed looking out at the clouds. However, when we landed, we found that our connecting flight to Rome had already left without us. This was disappointing because we had planned to arrive in Rome in the morning. Instead, we had to spend the night in Georgia, which felt like a waste of time, but there was nothing we could do.
 
-#### Add the theme to your hugo site
+The next day, we finally boarded the plane to Rome. Initially, the flight wasn’t bad; I managed to get some rest. Then they served the food, which I personally thought wasn’t the best, but I ate it anyway. Afterward, I tried to sleep again. The flight was about 13 hours long, and we had around 4 hours left. I had my AirPods in with noise-canceling on, which worked well, but unfortunately, they fell out of my ears and landed somewhere behind me. With the lights off, there was nothing I could do, and I was pretty upset, knowing that the rest of the flight would be tough. Eventually, we arrived in Rome, and the person behind me helped retrieve the AirPod when the lights came back on. We were only a day behind schedule, arriving at around 8:00 in the morning instead of a day earlier.
 
-Use as a git submodule:
+Once in Rome, we still had to navigate the airport. After waiting in several lines, we made our way to baggage claim. I found my suitcase, my sister found her suitcase, my dad found his suitcase, but my mom’s suitcase was missing. We searched everywhere but couldn’t find it. This was a big problem because my mom’s suitcase was the most important. The rest of us could have managed without ours, but my mom was very attached to hers, especially since she had packed clothes specifically tailored to accommodate her leg and hip issues. For the next 1-2 days, we coordinated with the airport, Delta, and anyone else who could help. Things didn’t look promising, but when we returned from visiting the Pantheon, the suitcase had been delivered. My mom was relieved, and we were ready to explore Rome further.
 
-```sh
-git submodule add https://github.com/apvarun/digital-garden-hugo-theme.git themes/digitalgarden
-```
+Rome was incredible. The Pantheon was much larger than I had imagined, and visiting early in the morning meant it was nearly empty. We also saw the Trevi Fountain, which was similarly impressive in scale. We toured the Colosseum and the ancient city around it, visited multiple museums filled with sculptures and paintings, and even went to the site where Julius Caesar was assassinated. That site was particularly cool because it housed a cat sanctuary. We spent some time there petting the cats and relaxing. Another unforgettable part of Rome was the abundance of massive churches, each one adorned with art on every wall, hundreds of sculptures, and large paintings. The most impressive of all was Vatican City, which, although technically its own country, is still in Rome. Vatican City felt like multiple churches in one giant building, filled with marble, huge sculptures, and a massive dome. The food in Rome was also great, with sandwiches being my favorite.
 
-Clone the repository (one-off, updating the theme may be harder later): 
+The next city we visited was Naples. We almost missed our train from Rome, but once aboard, the one-hour journey through the countryside to Naples was scenic and enjoyable. We stopped there for lunch and had some unique pizza. The pizza, cooked in a traditional pizza oven, was very saucy in the middle. Although it wasn’t my preferred style, it was interesting to try. We had initially planned to stay in Naples longer but decided to move on.
 
-```sh
-git clone https://github.com/apvarun/digital-garden-hugo-theme.git themes/digitalgarden
-```
+We rented a car near the train station and drove the rest of the way to Sorrento. Sorrento’s main theme seemed to be lemons, with lemon-themed merchandise in every souvenir shop. Limoncello, lemon desserts, and various lemon-infused foods were everywhere. The town had narrow streets lined with restaurants, and it was also close to the beach. After checking into our accommodation, we walked through the city and down to the waterfront. The beaches in Italy were quite short, very different from California’s. During our stay in Sorrento, we bought some food from a local market and found the quality to be good. The restaurants also offered great menus and consistently delicious food.
 
-#### Setup
+Overall, Italy was a fantastic vacation spot. There were some downsides, though. Smoking and vaping are extremely prevalent in Italy, to the point where it’s a bit off-putting. The abundance of cigarette butts on the streets contributes to the somewhat dirty atmosphere in some cities. Driving in Italy is also questionable—it’s very fast-paced, and many streets don’t seem suited for cars. Despite these issues, Italy’s incredible architecture and the fact that many locals speak English make it a great place to visit. Of the ones I visited, if I had to comment on the cities' architecture, I’d say Matera, Rome, and Sorrento were particularly stunning and beautiful.
 
-1. Copy `package.json`, `package-lock.json` and `tailwind.config.js` files from the theme/digitalgarden folder to the root folder of your the website
-2. Run `npm install` to install required packages for theme
-3. Run `npm i -g postcss-cli` to use PostCSS with Hugo build
-4. Set `theme = 'digitalgarden'` in config.toml
-5. Run `npm run dev` to start your local server
 
-When deploying to services like Netlify or Vercel, use the following command for building your site:
 
-```sh
-npm i -g postcss-cli && npm run build
-```
-
-→ [Understanding the theme structure](/articles/structure)
+→ [Next Assignment](/articles/structure)
