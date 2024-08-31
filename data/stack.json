@@ -12,5 +12,12 @@
     "link": "/articles_2/two",
     "icon": "",
     "tag": "Second"
+  },
+  {
+    "name": "Topic Organizer 3",
+    "description": "Coming soon...",
+    "link": "/articles_2/three",
+    "icon": "",
+    "tag": "Third"
   }
 ]
