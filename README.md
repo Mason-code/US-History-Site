@@ -1,1 +1,1 @@
-site - https://mason-history-site.netlify.app
+https://mason-neurauter.netlify.app
