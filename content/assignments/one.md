@@ -20,4 +20,4 @@ Overall, Italy was a fantastic vacation spot. There were some downsides, though.
 
 
 
-→ [Next Assignment](/articles/structure)
+→ [Next Assignment](/assignments/two)

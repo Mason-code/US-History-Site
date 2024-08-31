@@ -126,4 +126,4 @@ American archaeologist William Kelso has spent years investigating, excavating, 
 1. **Maryland**: Founded by George Calvert; a haven for Catholics.  
 2. **Georgia**: Allowed everyone the opportunity to change their lives.
 
-→ [Next Topic Organizer](/articles_2/two)
+→ [Next Topic Organizer](/assignment/two)

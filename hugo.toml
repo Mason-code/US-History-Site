@@ -22,11 +22,11 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 2
 [[menu.main]]
   name = 'Other Assignments'
-  url = '/articles'
+  url = '/assignments'
   weight = 5
 [[menu.main]]
   name = 'Topic Organizers'
-  url = '/stack'
+  url = '/topic'
   weight = 4
 
 [[menu.main]]

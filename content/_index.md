@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Home
 ---
 
 # Hello 👋
@@ -12,4 +12,4 @@ I'm Mason Neurauter, a junior in Mr. Nichols' US History class. This site will f
 
 Feel free to look around and check out the assignments I've completed so far. And I'm aware this website isn't perfect.
 
-→ [Go to Assignments](/articles)
+→ [Go to Assignments](/assignments)

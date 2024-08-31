@@ -11,4 +11,4 @@ Some things I find cool about Usian Bolt are that he even made world records in 
 
 Source - https://worldathletics.org/athletes/jamaica/usain-bolt-14201847
 
-→ [Next Assignment](/articles/three)
+→ [Next Assignment](/assignments/three)
