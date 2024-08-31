@@ -10,6 +10,6 @@ I'm Mason Neurauter, a junior in Mr. Nichols' US History class. This site will f
 
 <hr />
 
-Feel free to look around and check out the assignments I've completed so far.
+Feel free to look around and check out the assignments I've completed so far. And I'm aware this website isn't perfect.
 
 → [Go to Assignments](/articles)

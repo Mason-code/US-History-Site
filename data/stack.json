@@ -2,23 +2,15 @@
   {
     "name": "Topic Organizer 1",
     "description": "Currently working on",
-    "link": "topic_one",
-    "icon": "https://blog.bear.app/wp-content/uploads/2018/10/bear-icon.png",
-    "tag": "Productivity"
+    "link": "/articles_2/one",
+    "icon": "",
+    "tag": "First"
   },
   {
     "name": "Topic Organizer 2",
     "description": "Coming soon...",
-    "link": "topic_two",
+    "link": "/articles_2/two",
     "icon": "",
-    "tag": "Webdev"
-  },
-  {
-    "name": "Topic Organizer 3",
-    "description": "Coming soon...",
-    "link": "https://vercel.com/",
-    "icon": "",
-    "tag": ""
+    "tag": "Second"
   }
-  
 ]

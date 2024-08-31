@@ -1,6 +1,6 @@
 ---
 title: 1. 3 Places Essay
-date: 2024-08-25
+date: 2024-08-24
 ---
 
 Over the summer, my family decided to travel to Italy and visit several different cities. The trip lasted two weeks and was full of surprises. This essay will detail my experiences in Rome, Naples, and Sorrento.
