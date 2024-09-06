@@ -208,54 +208,36 @@ Row houses are just what they sound like—individual houses attached in a row a
 
 ## Historical Thinking Questions
 
-### 1. Summarize
-**How did New Netherland become New York?**
+1. **Summarize**: How did New Netherland become New York?
+   - In 1664, the English took over New Netherland from the Dutch without much resistance and renamed it New York after the Duke of York.
 
-In 1664, the English took over New Netherland from the Dutch without much resistance and renamed it New York after the Duke of York.
+2. **Evaluate**: What role did Penn's religious beliefs play in the founding of Pennsylvania and in the rise of democratic ideas in the colonies?
+   - William Penn's Quaker beliefs promoted religious freedom and equality. He established a government that allowed for greater participation, which influenced the rise of democratic ideas in America.
 
-### 2. Evaluate
-**What role did Penn's religious beliefs play in the founding of Pennsylvania and in the rise of democratic ideas in the colonies?**
-
-William Penn's Quaker beliefs promoted religious freedom and equality. He established a government that allowed for greater participation, which influenced the rise of democratic ideas in America.
-
-### 3. Make Generalizations
-**What factors drove economic development in the Middle Colonies?**
-
-The Middle Colonies thrived due to fertile land for farming, especially grains, and advantageous harbors that facilitated trade.
+3. **Make Generalizations**: What factors drove economic development in the Middle Colonies?
+   - The Middle Colonies thrived due to fertile land for farming, especially grains, and advantageous harbors that facilitated trade.
 
 ## Historical Thinking Questions (Continued)
 
-### 1. Summarize
-**How was Maryland founded?**
+1. **Summarize**: How was Maryland founded?
+   - Maryland was founded in 1632 by Lord Baltimore as a refuge for Catholics to practice their religion freely.
 
-Maryland was founded in 1632 by Lord Baltimore as a refuge for Catholics to practice their religion freely.
+2. **Make Inferences**: How did Georgia reflect the democratic idea that all are equal before the law?
+   - Georgia initially banned slavery and limited land ownership to promote equality among settlers, although these rules were later changed.
 
-### 2. Make Inferences
-**How did Georgia reflect the democratic idea that all are equal before the law?**
-
-Georgia initially banned slavery and limited land ownership to promote equality among settlers, although these rules were later changed.
-
-### 3. Draw Conclusions
-**Why did plantation owners rely on enslaved labor during colonial times, and how did the norms and values of the time shape that dependency?**
-
-Plantation owners needed a large labor force for their crops, and slavery provided a cheap, long-term solution. Racial beliefs and economic needs made slavery prevalent.
+3. **Draw Conclusions**: Why did plantation owners rely on enslaved labor during colonial times, and how did the norms and values of the time shape that dependency?
+   - Plantation owners needed a large labor force for their crops, and slavery provided a cheap, long-term solution. Racial beliefs and economic needs made slavery prevalent.
 
 ## Historical Thinking Questions (Additional)
 
-### 1. Make Inferences
-**How did slavery take root in the Americas, and what role might it have played in the development of American constitutional democracy?**
+1. **Make Inferences**: How did slavery take root in the Americas, and what role might it have played in the development of American constitutional democracy?
+   - Slavery became entrenched due to the demand for agricultural labor. While slavery was widespread, concurrent development of ideas about freedom and democracy eventually led to conflicts over equality.
 
-Slavery became entrenched due to the demand for agricultural labor. While slavery was widespread, concurrent development of ideas about freedom and democracy eventually led to conflicts over equality.
+2. **Identify Main Ideas and Details**: Why did southern planters adopt chattel slavery?
+   - Southern planters used chattel slavery as it was a permanent and inexpensive labor source for their extensive farms.
 
-### 2. Identify Main Ideas and Details
-**Why did southern planters adopt chattel slavery?**
-
-Southern planters used chattel slavery as it was a permanent and inexpensive labor source for their extensive farms.
-
-### 3. Analyze Cause and Effect
-**What factors might limit our understanding of the impact slavery had on enslaved people in the South?**
-
-Our understanding is limited by the fact that most records were written by slave owners, while enslaved people themselves had no means to record their own experiences.
+3. **Analyze Cause and Effect**: What factors might limit our understanding of the impact slavery had on enslaved people in the South?
+   - Our understanding is limited by the fact that most records were written by slave owners, while enslaved people themselves had no means to record their own experiences.
 
 ## Pictorials with Dialogue
 
@@ -386,11 +368,9 @@ In this portrait, which hangs in the museum in Connecticut, American painter Ral
 
 ## Short Answer
 
-- **Question:** What should the king’s government be unable to do without a trial by jury?
-  **Answer:** The king's government should not be able to arrest or imprison a person without a trial by jury.
+- The king's government should not be able to arrest or imprison a person without a trial by jury.
 
-- **Question:** What did the Magna Carta achieve?
-  **Answer:** The Magna Carta limited the power of the monarchy and gave more individual freedoms.
+- The Magna Carta limited the power of the monarchy and gave more individual freedoms.
 
 ---
 
