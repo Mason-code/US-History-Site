@@ -75,7 +75,7 @@ This western red cedar mask from the museum in Washington, D.C., represents the 
 
 ### The Columbian Exchange
 
-![Link to Picture](https://drive.google.com/uc?export=view&id=1bl4M79iGnMxtdsa1Y1CLK2vQwyyULYo9)
+![Link to Picture](content/assignment/pics_one/IMG_4939.PNG)
 
 
 ---
