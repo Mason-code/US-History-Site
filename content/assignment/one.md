@@ -270,9 +270,14 @@ Row houses are just what they sound like—individual houses attached in a row a
 
 ![Link to Triangular Trade Map](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5016.png)
 
+
+---
+
 ## New Britain Museum of American Art - Curating History
 
 In this portrait, which hangs in the museum in Connecticut, American painter Ralph Earl included an African-American free servant or enslaved person with his New England landowner. Such paintings were rare in the 1780s, the time in which it was finished. In the North, enslaved people tended to work in the homes of their owners. In the South, enslaved people worked in the fields. Though New England's economy did not depend on slavery, some merchants there earned huge fortunes from the slave trade.
+
+---
 
 ## 15 Questions and Answers
 
