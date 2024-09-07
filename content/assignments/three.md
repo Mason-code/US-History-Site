@@ -11,3 +11,5 @@ I first learned about Honnold’s feats from a documentary a few years ago, Free
 One thing I find cool about Alex Honnold is his ability to drown his whole life in rock climbing. He has no concern for anything except rock climbing. He used to live a very scrappy lifestyle with lots of camping and climbing. Now, I think he has a family to focus on but nothing wrong with that. Another fun fact is that he used to live out of a van so he can stay close to climbing spots, which shows his dedication to climbing. Like Alex I also rock climb, I have been for the past 2 years but haven’t been going frequently until recently. Also I haven’t climbed outdoors yet. It's a bigger commitment and climbing in the gym is fun.
 
 Source - https://en.wikipedia.org/wiki/Alex_Honnold
+
+→ [Next Assignment](/assignments/four)
