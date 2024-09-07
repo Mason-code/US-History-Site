@@ -3,9 +3,10 @@ title: Topic Organizer 1
 date: 2024-08-30
 ---
 
-## Chapter 1: Lessons 1, 2, 3
-
 ---
+
+# Chapter 1: Lessons 1, 2, 3
+
 
 ### People & Terms
 
@@ -71,7 +72,6 @@ This western red cedar mask from the museum in Washington, D.C., represents the 
    What were the main ways in which Native Americans obtained food?  
    - Native Americans got their food mainly by hunting, gathering, farming, and fishing, depending on where they lived.
 
----
 
 ### The Columbian Exchange
 
@@ -100,7 +100,6 @@ American archaeologist William Kelso has spent years investigating, excavating, 
    What complex effects did European colonization have on Native Americans?  
    - Native Americans were forced off their land or killed by the Europeans and their diseases.
 
----
 
 ### 15 Questions and Answers
 
@@ -149,19 +148,19 @@ American archaeologist William Kelso has spent years investigating, excavating, 
 15. **Why did European countries compete so fiercely for territories in the New World?**  
     - Control of territories meant access to valuable resources, strategic advantages, and increased global influence.
 
----
 
 ### 3 Pictorials with Dialogue
 
-![Link to Picture](https://drive.google.com/uc?export=view&id=1Or8M5QB3Dl9Sh0mWkUr8b7ylp3KW3O9M)
+![Link to Picture](content/assignment/pics_one/IMG_4939.PNG)
 
-![Link to Picture](https://drive.google.com/uc?export=view&id=1erwIl_10NOpKMvolY4VdyK1BiQ6ASfZe)
+![Link to Picture](assignment/pics_one/IMG_4939.PNG)
 
-![Link to Picture](https://drive.google.com/uc?export=view&id=19Y_mKD3YFUvLtPGFbKtSY94o4s8idcpk)
+![Link to Picture](pics_one/IMG_4939.PNG)
 
 ---
 
 # Chapter 1: Lesson 4
+
 
 ## People & Terms
 
@@ -171,19 +170,27 @@ American archaeologist William Kelso has spent years investigating, excavating, 
 - **Anne Hutchinson**: A Puritan woman who challenged the religious authorities in Massachusetts Bay and was eventually banished, later helping to settle Rhode Island.
 - **Mayflower Compact**: An agreement made by the Pilgrims in 1620 to establish a government and abide by its rules before they settled in Plymouth, Massachusetts.
 
+
+---
+
 ## Squanto - American Voices
 
 Squanto was one of the Pawtuxet who helped the Pilgrims survive in North America. According to some sources, Squanto was kidnapped from his Massachusetts home in 1605 and taken to England, where he learned English. When he eventually returned home, he discovered that most of his people had been wiped out by disease. After being introduced to the Pilgrims, Squanto acted as an interpreter for the colony and helped them plant local crops.
 
+---
+
 ## Historical Thinking Questions
 
-1. **Analyze Cause and Effect**: What complex historical causes led to the migration of the Puritans and Pilgrims to New England?
+1. **Analyze Cause and Effect**:  
+   What complex historical causes led to the migration of the Puritans and Pilgrims to New England?
    - The Puritans and Pilgrims migrated to the New England colonies to gain religious freedom. They wanted to be free of England’s religious persecution.
 
-2. **Make Generalizations**: What role did religion play in the rise of democratic ideas in the New England settlements?
+2. **Make Generalizations**:  
+   What role did religion play in the rise of democratic ideas in the New England settlements?
    - The New England settlements began as a place to practice religion freely. For Puritans, the church was the center of power. As the number of Puritans declined, their hold over the colonies decreased. This allowed men who owned property to gain the right to vote.
 
-3. **Form and Support Opinions**: How might the conflict between the New England colonists and Native Americans have been avoided? Support your opinion with evidence from the text.
+3. **Form and Support Opinions**:  
+   How might the conflict between the New England colonists and Native Americans have been avoided? Support your opinion with evidence from the text.
    - The conflict might have been avoided if the colonists had stopped forcefully taking over land. It only escalated because "continued takeover of Native American lands by colonists led to increasing conflict." (pg. 13)
 
 ## Pictorial with Dialogue
@@ -202,41 +209,55 @@ Squanto was one of the Pawtuxet who helped the Pilgrims survive in North America
 - **James Oglethorpe**: The founder of Georgia, who created the colony as a place for debtors and poor people from England.
 - **Middle Passage**: The brutal journey enslaved Africans were forced to take across the Atlantic to the Americas as part of the slave trade.
 
+
+---
+
 ## Philadelphia Row Houses - American Places
 
 Row houses are just what they sound like—individual houses attached in a row along a street. The first row houses in the United States were built in Philadelphia and date to around 1690. At that time, such buildings were constructed near ports to accommodate the growing number of people working on the busy docks where goods were traded. The unique design of row houses made them easier and less expensive to build than separate houses. An urban renewal program in the 1950s led to the restoration of many of these buildings in Philadelphia.
 
+---
+
 ## Historical Thinking Questions
 
-1. **Summarize**: How did New Netherland become New York?
+1. **Summarize**:  
+   How did New Netherland become New York? 
    - In 1664, the English took over New Netherland from the Dutch without much resistance and renamed it New York after the Duke of York.
 
-2. **Evaluate**: What role did Penn's religious beliefs play in the founding of Pennsylvania and in the rise of democratic ideas in the colonies?
+2. **Evaluate**:  
+   What role did Penn's religious beliefs play in the founding of Pennsylvania and in the rise of democratic ideas in the colonies?
    - William Penn's Quaker beliefs promoted religious freedom and equality. He established a government that allowed for greater participation, which influenced the rise of democratic ideas in America.
 
-3. **Make Generalizations**: What factors drove economic development in the Middle Colonies?
+3. **Make Generalizations**:  
+   What factors drove economic development in the Middle Colonies?
    - The Middle Colonies thrived due to fertile land for farming, especially grains, and advantageous harbors that facilitated trade.
 
 ## Historical Thinking Questions (Continued)
 
-1. **Summarize**: How was Maryland founded?
+1. **Summarize**:  
+   How was Maryland founded?
    - Maryland was founded in 1632 by Lord Baltimore as a refuge for Catholics to practice their religion freely.
 
-2. **Make Inferences**: How did Georgia reflect the democratic idea that all are equal before the law?
+2. **Make Inferences**:  
+   How did Georgia reflect the democratic idea that all are equal before the law?
    - Georgia initially banned slavery and limited land ownership to promote equality among settlers, although these rules were later changed.
 
-3. **Draw Conclusions**: Why did plantation owners rely on enslaved labor during colonial times, and how did the norms and values of the time shape that dependency?
+3. **Draw Conclusions**:  
+   Why did plantation owners rely on enslaved labor during colonial times, and how did the norms and values of the time shape that dependency?
    - Plantation owners needed a large labor force for their crops, and slavery provided a cheap, long-term solution. Racial beliefs and economic needs made slavery prevalent.
 
 ## Historical Thinking Questions (Additional)
 
-1. **Make Inferences**: How did slavery take root in the Americas, and what role might it have played in the development of American constitutional democracy?
+1. **Make Inferences**:  
+   How did slavery take root in the Americas, and what role might it have played in the development of American constitutional democracy?
    - Slavery became entrenched due to the demand for agricultural labor. While slavery was widespread, concurrent development of ideas about freedom and democracy eventually led to conflicts over equality.
 
-2. **Identify Main Ideas and Details**: Why did southern planters adopt chattel slavery?
+2. **Identify Main Ideas and Details**:  
+   Why did southern planters adopt chattel slavery?
    - Southern planters used chattel slavery as it was a permanent and inexpensive labor source for their extensive farms.
 
-3. **Analyze Cause and Effect**: What factors might limit our understanding of the impact slavery had on enslaved people in the South?
+3. **Analyze Cause and Effect**:  
+   What factors might limit our understanding of the impact slavery had on enslaved people in the South?
    - Our understanding is limited by the fact that most records were written by slave owners, while enslaved people themselves had no means to record their own experiences.
 
 ## Pictorials with Dialogue
