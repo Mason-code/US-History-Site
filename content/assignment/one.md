@@ -262,9 +262,9 @@ Row houses are just what they sound like—individual houses attached in a row a
 
 ## Pictorials with Dialogue
 
-1. ![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5024.png)
-2. ![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5025.png)
-3. ![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5026.png)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5024.png)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5025.png)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5026.png)
 
 ## Triangular Trade Map
 
