@@ -151,11 +151,11 @@ American archaeologist William Kelso has spent years investigating, excavating, 
 
 ### 3 Pictorials with Dialogue
 
-![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/ice_bridge)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5021.png)
 
-![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5020.HEIC)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5020.png)
 
-![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5020.heic)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5019.png)
 
 ---
 
@@ -195,7 +195,7 @@ Squanto was one of the Pawtuxet who helped the Pilgrims survive in North America
 
 ## Pictorial with Dialogue
 
-![Link to Picture](https://drive.google.com/uc?export=view&id=17MOAWumNtD8E2N5TQLc1Qv9s7YwFanE7)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5027.png)
 
 ---
 
@@ -262,13 +262,13 @@ Row houses are just what they sound like—individual houses attached in a row a
 
 ## Pictorials with Dialogue
 
-1. ![Link to Picture](https://drive.google.com/uc?export=view&id=1Ch03JJra4gTUq0JHA5102q3O4phzDsbX)
-2. ![Link to Picture](https://drive.google.com/uc?export=view&id=1RA8N2IJQ9wTTiEjq1ma-Yzp8eEV7QDCD)
-3. ![Link to Picture](https://drive.google.com/uc?export=view&id=1ETH5NjKZzwdlGXjjlxIBwbzSagu4d0vL)
+1. ![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5024.png)
+2. ![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5025.png)
+3. ![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5026.png)
 
 ## Triangular Trade Map
 
-![Link to Triangular Trade Map](https://drive.google.com/uc?export=view&id=1b5Re5HPAFVLHqzyN1BQL_rgOSa6MLdq7)
+![Link to Triangular Trade Map](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5016.png)
 
 ## New Britain Museum of American Art - Curating History
 
