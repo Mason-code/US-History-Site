@@ -75,7 +75,7 @@ This western red cedar mask from the museum in Washington, D.C., represents the 
 
 ### The Columbian Exchange
 
-![Link to Picture](https://img.freepik.com/premium-vector/job-exam-test-vector-illustration_138676-243.jpg)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_4939.PNG)
 
 
 ---
@@ -151,11 +151,11 @@ American archaeologist William Kelso has spent years investigating, excavating, 
 
 ### 3 Pictorials with Dialogue
 
-![Link to Picture](https://drive.google.com/file/d/1Ch03JJra4gTUq0JHA5102q3O4phzDsbX/view)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/ice_bridge)
 
-![Link to Picture](https://drive.google.com/file/d/1Ch03JJra4gTUq0JHA5102q3O4phzDsbX/view?usp=drive_link)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5020.HEIC)
 
-![Link to Picture](https://drive.google.com/uc?export=view&id=1Ch03JJra4gTUq0JHA5102q3O4phzDsbX)
+![Link to Picture](https://raw.githubusercontent.com/Mason-code/US-History-Site/master/content/assignment/pics_one/IMG_5020.heic)
 
 ---
 
