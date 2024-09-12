@@ -9,6 +9,6 @@ I first heard about Napoleon in school, and I was fascinated by how much territo
 
 What I find particularly notable about Napoleon is his long-lasting impact through the Napoleonic Code. This set of laws focused on fairness and individual rights and has influenced many countries' legal systems. It’s also interesting that despite being known as short, he was actually of average height for men of his time. Napoleon was more than just a military commander: he was a visionary with ideas that went beyond the battlefield.
 
+Source - https://www.history.com/topics/france/napoleon    
 Source - https://en.wikipedia.org/wiki/Napoleon    
-Source - https://www.history.com/topics/france/napoleon
 
