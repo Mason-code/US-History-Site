@@ -9,7 +9,9 @@ I first learned about George Washington back in school, and I’ve always though
 
 One thing I find cool about George Washington is how he didn’t just lead soldiers in battle, but also helped shape the government afterward. He wasn’t just about fighting; he had ideas for the country, too. Washington could’ve just stayed on his farm at Mount Vernon and lived a quiet life, but he chose to serve his country even when it wasn’t easy. Even though he was wealthy, he understood the importance of hard work and making sacrifices, which is something I think is really admirable.
 
-→ [Next Assignment](/assignments/five)
 Source - https://en.wikipedia.org/wiki/George_Washington        
 Source - https://www.mountvernon.org/george-washington      
-Source - https://www.history.com/topics/us-presidents/george-washington     
+Source - https://www.history.com/topics/us-presidents/george-washington    
+
+→ [Next Assignment](/assignments/five)
+
